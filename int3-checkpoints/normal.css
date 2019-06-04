@@ -1,0 +1,25 @@
+body{
+    background-color:#2C6A40;
+}
+.main{
+    margin:2px 25% 2px 25%;
+    width:50%;
+    background-color:#3D9970;
+    text-align:center;
+    color: #DDDDDD;
+    font-size:24px;
+    font-family:"Trebuchet MS"
+}
+.test{
+    margin: 2px 7.5% 2px 7.5%;
+    width:85%;
+    background-color:#3d9970;
+    text-align:center;
+    color: #DDDDDD;
+    font-size:24px;
+    font-family:"Monospace";
+}
+#ad{
+    width: 132px;
+    position: absolute;
+}

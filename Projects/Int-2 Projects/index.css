@@ -1,0 +1,43 @@
+#tableTop{
+ width: 75%;
+ background:#FF851B;
+ margin-left:12.5%;
+ margin-right:12.5%;
+ text-align:center;
+ border-style:solid;
+ border-color:#F1C8B2;
+}
+.textTop{
+ font-family:monospace ;
+ width:75%;
+ margin-left:12.5%;
+ margin-right:12.5%;
+ text-align: center;
+ color:#DDDDDD;
+}
+.headerTop{
+ font: bold;
+ font-size:48px; 
+}
+body{
+background-color:#3d9970;
+}
+.descText{
+ width:75%;
+ margin-left: 12.5%;
+ margin-right:12.5%;
+ font-family:monospace;
+ font-size: 16px;
+ text-align: center;
+ background-color:#3d9970;
+ color:#DDDDDD;
+}
+.descHeader{
+ font-family:monospace;
+ font-size: 24px;
+ text-align:center;
+ color:#DDDDDD;
+}
+ul, ol{
+ list-style: none;
+}
